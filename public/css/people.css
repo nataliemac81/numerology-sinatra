@@ -1,0 +1,22 @@
+body {
+  /* background: url(../images/Mint-Gold.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+  font-family: 'Open Sans', sans-serif;
+}
+
+.home-header{
+  font-family: 'Syncopate', sans-serif;
+}
+
+.new-person {
+  padding: 20px;
+  background-color: #115166;
+}
+
+.edit-person {
+  padding: 20px;
+  background-color: #add8e6;
+}
